@@ -36,6 +36,7 @@ This is a frontend application for a Rolex watch e-commerce store built using Re
    npm run build
    ```
    This will generate optimized code in the `dist` directory.
+5. Running the app
    ```bash
    npm run dev
    ```
