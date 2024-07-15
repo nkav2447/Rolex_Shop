@@ -21,7 +21,7 @@ This is a frontend application for a Rolex watch e-commerce store built using Re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rolex-watch-shop.git
+   git clone https://github.com/nkav2447/Rolex_Shop.git
    ```
 2. Navigate to the project directory:
    ```bash
